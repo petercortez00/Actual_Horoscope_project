@@ -1,0 +1,39 @@
+/* style all elements in the <body> */
+body {
+    font-family: sans-serif;
+    vertical-align: center;
+}
+
+/* style all the buttons in a page */
+button {
+    width: 60px;
+    color: lightseagreen;
+}
+
+/* style the element with the id “myId” */
+#myId {
+    color: yellow;
+}
+
+/*style all elements with the class “fontLarge” */
+.fontLarge{
+    font-size: 50px;
+}
+
+/* style all p elements with the class “center” */
+p.center {
+    text-align: center;
+    color: Blue;
+}
+/* Style color of the background color for the page.*/
+body {
+    background: lightblue no-repeat fixed center;
+}
+/* style all h1, h2 and p elements */
+h1, h2, p {
+    text-align: Center;
+    text-weight: bold;
+}
+#message{
+    text-decoration-color: aqua;
+}
